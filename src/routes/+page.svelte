@@ -16,8 +16,8 @@
   <!-- Slide 2: On Earth, in Space or on Mars. Anywhere. -->
   <section id="slide2" class="slide">
     <div class="slide-content">
-      <h1>On Earth, in Space or on Mars.</h1>
-      <p>Anywhere.</p>
+      <h1>On Earth, in Space or on Mars</h1>
+      <p>Anywhere</p>
     </div>
   </section>
 
@@ -38,8 +38,8 @@
   <!-- Slide 5: Enjoy the fresh air of mountain ranges. Anywhere. -->
   <section id="slide5" class="slide">
     <div class="slide-content">
-      <h1>Enjoy the fresh air of mountain ranges.</h1>
-      <p>Anywhere.</p>
+      <h1>Enjoy the fresh air of mountain ranges</h1>
+      <p>Anywhere</p>
     </div>
   </section>
 
@@ -53,7 +53,7 @@
 
   <!-- Footer -->
   <footer>
-    <p>&copy; 2025 Norð. All rights reserved.</p>
+    <p>&copy; 2025 Andartak. All rights reserved.</p>
   </footer>
 </main>
 
